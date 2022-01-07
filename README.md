@@ -7,3 +7,7 @@ run the WAM.py file to launch the game.
 There may be resource conflicts if you try to run multiple instsances on the same computer, and you may need to close all instances to fix these.
 Alternatively, just run the server.py file to host a server that anyone can join.
 The game is configured to run on port 80 - change this if you intend to run the game outside of your LAN!!! (change on line 343 in WAM.py I believe)
+
+# About
+This was my A Level coursework project. 
+I have not touched it since then, and have no current intentions to do so.
