@@ -2,9 +2,9 @@
 Copyright Emily Boarer 2021
 
 # To run:
-you need to be running pygame 1.9.6 (pygame 2 does not work properly) and python 3.7 or greater
-run the WAM.py file to launch the game.
-There may be resource conflicts if you try to run multiple instsances on the same computer, and you may need to close all instances to fix these.
+You need to be running pygame 1.9.6 (pygame 2 does not work properly) and python 3.7 or greater.
+Run the WAM.py file to launch the game.
+There may be resource conflicts if you try to run multiple instances on the same computer, and you may need to close all instances to fix these.
 Alternatively, just run the server.py file to host a server that anyone can join.
 The game is configured to run on port 80 - change this if you intend to run the game outside of your LAN!!! (change on line 343 in WAM.py I believe)
 
